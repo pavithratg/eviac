@@ -1,0 +1,4 @@
+net/eviac/blog/eviac/bean/Employee.class
+net/eviac/blog/eviac/App.class
+net/eviac/blog/util/HibernateUtil.class
+net/eviac/blog/eviac/bean/Employee_annotated.class

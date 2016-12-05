@@ -1,0 +1,305 @@
+2016-12-04 11:10:46,290 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/pavithra/eviac2/eviac/pom.xml
+2016-12-04 11:10:51,640 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.eviac.blog.eviac:eviac:0.0.1 @ /Users/pavithra/eviac2/eviac/pom.xml.
+2016-12-04 11:10:53,033 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eviac/src/main/java
+2016-12-04 11:10:53,059 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eviac/src/test/java
+2016-12-04 11:10:57,789 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2016-12-04 11:10:58,818 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 11:10:58,820 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/main/resources
+2016-12-04 11:10:58,823 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 11:10:58,823 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 11:11:42,691 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 11:11:42,850 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 11:11:42,852 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 11:11:42,852 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 19:47:45,473 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.eviac.blog.eviac:eviac:0.0.1 @ /Users/pavithra/eviac2/eviac/pom.xml.
+2016-12-04 19:47:50,055 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:47:50,092 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 19:47:50,096 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:47:50,096 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 19:47:53,142 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.eviac.blog.eviac:eviac:0.0.1 @ /Users/pavithra/eviac2/eviac/pom.xml.
+2016-12-04 19:47:53,627 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:47:53,647 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 19:47:53,650 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:47:53,650 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 19:59:39,312 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:59:39,334 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 19:59:39,336 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:59:39,336 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 19:59:48,127 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:59:48,127 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 19:59:48,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 19:59:48,129 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 21:34:33,647 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.eviac.blog:eviac:0.0.1 @ /Users/pavithra/eviac2/eviac/pom.xml.
+2016-12-04 21:34:34,353 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:34:34,355 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 21:34:34,359 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:34:34,359 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 21:35:55,696 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/pavithra/eviac2/eviac/pom.xml
+2016-12-04 21:35:56,137 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.eviac.blog:eviac:0.0.1 @ /Users/pavithra/eviac2/eviac/pom.xml.
+2016-12-04 21:35:56,518 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eviac/src/main/java
+2016-12-04 21:35:56,521 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eviac/src/test/java
+2016-12-04 21:35:56,706 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2016-12-04 21:35:56,928 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:35:56,928 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/main/resources
+2016-12-04 21:35:56,930 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:35:56,931 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 21:36:24,734 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:36:24,738 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 21:36:24,740 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:36:24,740 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 21:37:48,475 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.eviac.blog:eviac:0.0.1 @ /Users/pavithra/eviac2/eviac/pom.xml.
+2016-12-04 21:37:49,386 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:37:49,389 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 21:37:49,393 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:37:49,393 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 21:37:51,067 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:37:51,086 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 21:37:51,088 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 21:37:51,088 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:19:55,337 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:19:55,353 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:19:55,365 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:19:55,365 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:20:16,126 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:20:16,127 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:20:16,129 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:20:16,129 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:20:17,150 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:20:17,151 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:20:17,153 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:20:17,153 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:21:32,308 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:21:32,323 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:21:32,325 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:21:32,325 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:22:10,865 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:22:10,880 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:22:10,882 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:22:10,882 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:23:07,916 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:23:07,916 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:23:07,917 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:23:07,918 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:23:48,925 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:23:48,939 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:23:48,941 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:23:48,941 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:24:20,084 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:24:20,096 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:24:20,100 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:24:20,101 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:26:19,891 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:26:19,901 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:26:19,902 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:26:19,903 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:27:56,071 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:27:56,082 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:27:56,083 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:27:56,083 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:28:03,043 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:28:03,044 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:28:03,045 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:28:03,046 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:30:48,205 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:30:48,229 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:30:48,230 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:30:48,230 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:31:17,147 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:31:17,148 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-12-04 22:31:17,149 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:31:17,149 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:32:15,729 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:32:15,730 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 22:32:15,759 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:32:15,759 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:32:44,824 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:32:44,825 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 22:32:44,826 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:32:44,827 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:33:54,681 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:33:54,682 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 22:33:54,684 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:33:54,684 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:35:18,612 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:35:18,613 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 22:35:18,615 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:35:18,615 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:35:36,212 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:35:36,213 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 22:35:36,214 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:35:36,214 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:35:54,704 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:35:54,704 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 22:35:54,705 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:35:54,706 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:36:03,151 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:36:03,151 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 22:36:03,153 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:36:03,153 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:48:08,991 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:48:09,016 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-04 22:48:09,017 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:48:09,018 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:48:44,468 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:48:44,469 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-04 22:48:44,470 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:48:44,471 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:50:05,786 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:50:05,786 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-04 22:50:05,788 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:50:05,788 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-04 22:50:20,009 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:50:20,009 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-04 22:50:20,010 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-04 22:50:20,010 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 01:56:23,046 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 01:56:23,063 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-05 01:56:23,065 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 01:56:23,065 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 01:56:35,296 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 01:56:35,296 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-05 01:56:35,298 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 01:56:35,298 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 01:57:47,905 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 01:57:47,938 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-05 01:57:47,940 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 01:57:47,941 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 01:58:01,530 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 01:58:01,555 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-12-05 01:58:01,556 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 01:58:01,556 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:02:42,804 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:02:42,896 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:02:42,925 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:02:42,925 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:03:11,987 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:03:12,021 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:03:12,025 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:03:12,025 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:04:55,698 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:04:55,699 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:04:55,701 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:04:55,702 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:08:15,652 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:08:15,670 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:08:15,672 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:08:15,672 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:08:21,797 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:08:21,798 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:08:21,800 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:08:21,801 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:09:18,658 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:09:18,673 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:09:18,675 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:09:18,676 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:09:35,427 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/pavithra/eviac2/eviac
+2016-12-05 03:09:35,427 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-12-05 03:09:38,202 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:09:38,206 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:09:38,270 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:09:38,270 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:09:52,285 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-12-05 03:09:58,308 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/pavithra/eviac2/eviac
+2016-12-05 03:09:58,309 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2016-12-05 03:10:37,510 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-12-05 03:10:53,541 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/pavithra/eviac2/eviac
+2016-12-05 03:10:53,541 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-12-05 03:15:48,459 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:15:48,486 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:15:48,489 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:15:48,489 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:16:08,224 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-12-05 03:16:15,600 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/pavithra/eviac2/eviac
+2016-12-05 03:16:15,600 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-12-05 03:19:15,176 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:19:15,193 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:19:15,195 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:19:15,195 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:19:33,766 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:19:33,766 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:19:33,768 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:19:33,768 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:20:36,640 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:20:36,642 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:20:36,643 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:20:36,644 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:22:04,834 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:22:04,835 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:22:04,837 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:22:04,838 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:22:16,688 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/pavithra/eviac2/eviac
+2016-12-05 03:22:16,688 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-12-05 03:22:38,938 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:22:38,956 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:22:38,958 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:22:38,958 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:24:13,586 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:24:13,587 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:24:13,588 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:24:13,589 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:29:07,113 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:29:07,114 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:29:07,116 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:29:07,116 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:29:17,315 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/pavithra/eviac2/eviac
+2016-12-05 03:29:17,315 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-12-05 03:36:02,845 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:36:02,869 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:36:02,873 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:36:02,873 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:36:03,911 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:36:03,912 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:36:03,914 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:36:03,915 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:36:21,693 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:36:21,694 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:36:21,695 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:36:21,695 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:37:07,463 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:37:07,463 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:37:07,465 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:37:07,465 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:37:46,893 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:37:46,894 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:37:46,896 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:37:46,896 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:39:24,419 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:39:24,452 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:39:24,454 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:39:24,454 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:39:39,087 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/pavithra/eviac2/eviac
+2016-12-05 03:39:39,088 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-12-05 03:49:04,908 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:49:04,961 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:49:04,963 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:49:04,963 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:49:05,979 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:49:05,979 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:49:05,980 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:49:05,981 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:49:22,415 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:49:22,416 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:49:22,417 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:49:22,418 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:50:18,326 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:50:18,327 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:50:18,328 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:50:18,328 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:50:39,927 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:50:39,928 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:50:39,930 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:50:39,930 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:51:04,465 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:51:04,466 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:51:04,467 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:51:04,467 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:51:05,481 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:51:05,481 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:51:05,483 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:51:05,483 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
+2016-12-05 03:51:18,932 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/pavithra/eviac2/eviac
+2016-12-05 03:51:18,932 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-12-05 03:59:06,514 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:59:06,523 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2016-12-05 03:59:06,524 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 03:59:06,525 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/pavithra/eviac2/eviac/src/test/resources
